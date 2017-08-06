@@ -1,4 +1,3 @@
 import calendar
-
-cal=calendar.month(2017,1)
+cal=calendar.month(2017,8)
 print (cal)
